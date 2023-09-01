@@ -1,0 +1,23 @@
+{
+  "name": "javascript-oop",
+  "version": "1.0.0",
+  "description": "Intermediate JavaScript- Object Oriented Programming Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeasir01/javascript-oop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeasir01/javascript-oop/issues"
+  },
+  "homepage": "https://github.com/yeasir01/javascript-oop#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
